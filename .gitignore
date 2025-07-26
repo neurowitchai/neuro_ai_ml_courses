@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# macOS system file
+.DS_Store
+
+# JetBrains IDEs (e.g., PyCharm, IntelliJ)
+.idea/
+
 # C extensions
 *.so
 
