@@ -11,9 +11,7 @@ This module dives into the fundamental mechanics of neural networks and how they
 
 ## Notebook(s)
 
-- `gradient_descent.ipynb` – Visualizes the gradient descent optimization process.
-- `backpropagation_demo.ipynb` – Walks through the backpropagation algorithm.
-- `vanishing_gradient.ipynb` – Demonstrates how gradients diminish in deep networks.
+- `backpropagation.ipynb` – Walks through the backpropagation algorithm.
 - `activation_functions.ipynb` – Compares different activation functions and their effects.
 
 ## Learning Objectives
