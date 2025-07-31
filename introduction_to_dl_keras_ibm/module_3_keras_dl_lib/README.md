@@ -55,3 +55,5 @@ By the end of this module, you should be able to:
 - Justify the use of different activation functions in a network
 - Monitor and interpret model performance using key metrics
 - Tune learning behavior using optimizers and training strategies
+
+## Did you know? 
