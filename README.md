@@ -4,61 +4,55 @@ This repository contains projects, notes, and exercises from various online cour
 
 ---
 
-## 📚 Courses & Projects
+## Courses & Projects
 
 ### 1. [Introduction to Deep Learning & Neural Networks with Keras – IBM (Coursera)](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras)
 
-- **Platform**: Coursera | IBM Skills Network
+- **Platform**: Coursera | IBM Skills Network  
 - **Topics Covered**:
-  - Fundamentals of deep learning
-  - Neural network architectures
-  - Activation functions (ReLU, sigmoid, softmax)
-  - Backpropagation and loss functions
-  - Building models with Keras and TensorFlow
+  - Fundamentals of deep learning  
+  - Neural network architectures  
+  - Activation functions (ReLU, sigmoid, softmax)  
+  - Backpropagation and loss functions  
+  - Building models with Keras and TensorFlow  
 
 - **Projects**:
-  - Building a multi-layer neural network using Keras
-  - Binary classification with sigmoid activation
-  - Visualizing training performance and loss
+  - Building a multi-layer neural network using Keras  
+  - Binary classification with sigmoid activation  
+  - Visualizing training performance and loss  
 
 ---
 
-### 2. [IBM AI Engineering Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/ai-engineer)
+### 2. [Building Deep Learning Models with TensorFlow – IBM (Coursera)](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?specialization=ibm-deep-learning-with-pytorch-keras-tensorflow)
 
-- **Courses Included**:
-  - Machine Learning with Python
-  - Scalable AI with Apache Spark
-  - Deep Learning & Neural Networks
-  - Computer Vision with OpenCV and CNNs
-  - NLP with Python and Transformers
-  - AI Capstone Project
+- **Platform**: Coursera | IBM Skills Network  
+- **Topics Covered**:
+  - Model design and evaluation in TensorFlow  
+  - Overfitting, regularization, and dropout  
+  - Transfer learning and pretrained networks  
+  - Image classification pipelines  
 
-- **Planned Contributions**:
-  - End-to-end ML pipelines
-  - Projects using OpenCV for image analysis
-  - NLP applications using Hugging Face Transformers
-  - Final capstone demonstrating integrated AI skills
+- **Projects**:
+  - Constructing and tuning CNNs for image classification  
+  - Using transfer learning with MobileNet  
+  - TensorBoard visualization  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- Python
-- TensorFlow / Keras
-- PyTorch (future courses)
-- OpenCV
-- Scikit-learn
-- Jupyter Notebooks
-
----
-
-## 🚀 Goals
-
-- Build a strong foundation in AI for neuroscience applications
-- Translate theory into working code and reusable models
-- Create a public portfolio of NeuroAI-aligned projects
+- Python  
+- TensorFlow  
+- Keras  
+- PyTorch  
+- OpenCV  
+- Scikit-learn  
+- Jupyter Notebooks  
 
 ---
 
-## 📁 Folder Structure (Planned)
+## Goals
 
+- Build a strong foundation in AI for neuroscience applications  
+- Translate theory into working code and reusable models  
+- Create a public portfolio of NeuroAI-aligned projects  
